@@ -9,3 +9,7 @@
 * Light oil
 * karam added
 * ghee added
+
+## Dosa shop1
+* powder added
+* water added
