@@ -18,3 +18,4 @@
 * ghee add
 * oil added
 * masala added
+* pepper added
