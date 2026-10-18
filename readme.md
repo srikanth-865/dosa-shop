@@ -19,7 +19,3 @@
 * oil added
 * masala added
 * hot pepper added
-
-# Egg Dosa
-* Battern added
-* Oil Added
