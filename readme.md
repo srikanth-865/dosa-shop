@@ -19,14 +19,8 @@
 * oil added
 * masala added
 * hot pepper added
-
-<<<<<<< HEAD
-## Egg dosa
-* Dosa battern added
-* Oil Added
-* 1 egg added
-=======
 # Egg Dosa
-* Battern added
-* Oil Added
-* 1/2 eggs
+* Dosa battern added
+* oil added
+* 2 eggs added
+
